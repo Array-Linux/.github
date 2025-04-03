@@ -27,5 +27,5 @@ We welcome contributions to improve the system, from installer tweaks to package
 For suggestions, questions, or feedback, open an issue in the repository or reach out via [GitHub Discussions](https://github.com/Array-Linux/discussions).
 
 ---
-_ArrayLinux - Simple, yet flexible.
+_ArrayLinux - Simple, yet flexible._
 
