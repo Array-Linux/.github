@@ -1,3 +1,11 @@
+# 🚧 Project Suspended 🚧
+
+The development of Arraylinux is currently **suspended indefinitely**.
+
+This project is no longer being actively maintained. It may return in the future, but for now, it should be considered archived.
+
+Feel free to explore the code and use anything here as reference or inspiration (Even though i did pretty bad on everything).
+
 # ArrayLinux
 
 ![arraylinux-256](https://github.com/user-attachments/assets/a4069024-13c4-40fa-88c5-e5555024363d)
